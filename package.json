@@ -1,0 +1,19 @@
+{
+  "name": "saaghi",
+  "version": "0.0.2",
+  "description": "idk",
+  "main": "index.js",
+  "dependencies": {
+    "dockerode": "^2.5.5",
+    "node-cron": "^1.2.1",
+    "sqlite": "^3.0.0",
+    "telegraf": "^3.21.2",
+    "unix-dgram": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "",
+  "license": "ISC"
+}

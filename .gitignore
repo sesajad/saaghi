@@ -1,0 +1,9 @@
+*.log
+*.save
+*.swp
+node_modules/
+.buildconfig
+*.db
+*.ovpn
+config.json
+config.js

@@ -1,0 +1,5 @@
+module.exports = {
+  'bot_id' : 'FILL_ME',
+  'ip' : 'FILL_ME',
+  'owner' : 0 // also me :))
+}
