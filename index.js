@@ -1,6 +1,6 @@
-const Telegraf = require('telegraf');
-const config = require('config.js');
+const config = require('./config.js');
 
+const Telegraf = require('telegraf');
 const bot = new Telegraf(config.bot_id);
 const OWNER = config.owner;
 
